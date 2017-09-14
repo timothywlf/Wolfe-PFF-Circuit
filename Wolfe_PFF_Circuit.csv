@@ -1,0 +1,6 @@
+Reference, Value, Footprint, Datasheet
+"U1","LM321","TO_SOT_Packages_SMD:SOT-23-5",""
+"RV2","30k","",""
+"RV1","30k","",""
+"C1","5600pF","Capacitors_SMD:C_0402",""
+"R1","20k","",""
